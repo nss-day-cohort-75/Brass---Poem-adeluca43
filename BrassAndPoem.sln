@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrassAndPoem", "BrassAndPoem.csproj", "{A7449F85-AB65-9B8C-5BDD-1E6BF40A04CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7449F85-AB65-9B8C-5BDD-1E6BF40A04CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7449F85-AB65-9B8C-5BDD-1E6BF40A04CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7449F85-AB65-9B8C-5BDD-1E6BF40A04CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7449F85-AB65-9B8C-5BDD-1E6BF40A04CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B03FD71B-5479-407F-B0FB-56468B828F0D}
+	EndGlobalSection
+EndGlobal
