@@ -68,7 +68,7 @@ void DisplayAllProducts(List<Product> products, List<ProductType> productTypes)
         Product product = products[i];
 
 
-        string typeTitle = productTypes.First(item => item.Id == product.ProductTypeId).Title;
+        string typeTitle = productTypes.First(productType => productType.Id == product.ProductTypeId).Title;
 
         Console.WriteLine($"{i + 1}. {product.Name}: ${product.Price}, {typeTitle}");
     }
